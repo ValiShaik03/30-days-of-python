@@ -1,0 +1,9 @@
+{
+    "name": "vali",
+    "age": 22,
+    "skills": [
+        "Python",
+        "MySQL",
+        "ML Basics"
+    ]
+}
